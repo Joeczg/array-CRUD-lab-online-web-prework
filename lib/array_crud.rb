@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  car=[color,year,type,model]
+  car=["color","year","type","model"]
   
 end
 
